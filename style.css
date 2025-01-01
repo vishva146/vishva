@@ -1,0 +1,8 @@
+.blackandwhite{filter:grayscale(100%); width:16rem; height:11 rem; margin:20px;
+  
+ transition:transform.25 ease-in-out;}
+
+.blackandwhite:hover{filter:none;
+  transform:scale(2.1);}
+
+.imageset{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:20px}
